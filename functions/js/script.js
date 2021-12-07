@@ -45,4 +45,4 @@ function setColor(element, kleur, size){ //In op welke regel in de HTML file wor
 
 getName(myStr);
 // wat gebeurd er hierboven ___een functie om een naam te krijgen en een string___ en wanneer gebeurt dat _als je een string maakt___ (tip ververs je pagina eens in je brouwser? vul je antwoord in op de lijn.
-// verander de waarde van myStr en kijk wat er dan gebeurt (ververs je browser en test het uit) wat gebeurd er? ____er komt geen pop-up meer____ vul je antwoord in op de lijn.
+// verander de waarde van myStr en kijk wat er dan gebeurt (ververs je browser en test het uit) wat gebeurd er? ____er komt geen pop-up meer___ vul je antwoord in op de lijn.
