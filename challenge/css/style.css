@@ -30,6 +30,18 @@ footer{
     margin-top: 115px;
 }
 
+.footer-index{
+    margin-top: 65px;
+}
+
+.modules-footer{
+    margin-top: 215px;
+}
+
+.over-mij-footer{
+    margin-top: 50px;
+}
+
 .middenstuk{
     height: auto;
     width: auto;
@@ -143,5 +155,13 @@ div.navigation{
 }
 
 .h3-geleerd{
+    text-align: center;
+}
+
+.leren-over-dillon{
+    text-align: center;
+}
+
+.over-mij-tekst{
     text-align: center;
 }
